@@ -11,6 +11,7 @@ h1 {
 	display: flex;
 	widows: auto;
 	justify-content: space-between;
+	position: absolute;
 }
 
 .nav-links {
@@ -62,7 +63,7 @@ h1 {
 	width: 250px;
 	background-color: rgba(247, 136, 167, .6);
 	border-radius: 50%;
-	display: inline-block;
+	display: absolute;
 	z-index: 2;
 }
 
@@ -71,7 +72,7 @@ h1 {
 	width: 75px;
 	background-color: rgba(207, 130, 213, .6);
 	border-radius: 50%;
-	display: inline-block;
+	display: absolute;
 	z-index: 3;
 }
 
@@ -80,6 +81,6 @@ h1 {
 	width: 150px;
 	background-color: rgba(247, 193, 162, .7);
 	border-radius: 50%;
-	display: inline-block;
+	display: absolute;
 	z-index: 1;
 }
