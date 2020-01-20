@@ -1,4 +1,4 @@
-body {
+* {
   font-family: "Open Sans", sans-serif;
   background: #f9fafc;
 }
@@ -51,7 +51,7 @@ h1 {
 
 .circles {
   display: inline;
-  top: 50px;
+  top: 250px;
 }
 
 .circle-large {
